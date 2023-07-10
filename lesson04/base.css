@@ -39,6 +39,7 @@ body {
 
 /* 上の部分は気にせずここから書く */
 
+
 .parent{
   display: flex;
   justify-content: center;
